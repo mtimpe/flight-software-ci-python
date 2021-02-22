@@ -1,5 +1,11 @@
 # rocket.py
 
+# https://www.stupid-projects.com/devops-for-embedded-part-1/
+
+# https://blog.feabhas.com/2017/09/introduction-docker-embedded-developers-part-1-getting-started/
+
+# https://blog.feabhas.com/2017/10/introduction-docker-embedded-developers-part-2-building-images/
+
 def imperial_to_metric(altitude):
     # Convert feet to meters
     return 0.3048 * altitude
